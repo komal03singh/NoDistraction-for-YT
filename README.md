@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NoDistraction-for-YT
 NoDistraction for YT is a Chrome extension designed to eliminate distractions while studying or working on YouTube. It helps users stay focused by removing non-educational videos and shorts, ensuring a more productive browsing experience.  
 =======
@@ -45,4 +44,3 @@ Contributions are welcome! Feel free to fork this repo, submit pull requests, or
 1. Clone this repository:  
    ```bash
    git clone https://github.com/komal03singh/NoDistraction-YT.git
->>>>>>> f4fff16 (first commit)
