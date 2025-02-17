@@ -23,9 +23,21 @@ NoDistraction for YT is a Chrome extension designed to eliminate distractions wh
 - **Frontend:** React.js, Tailwind CSS  
 - **Bundler:** Vite  
 - **Browser API:** Chrome Extensions API  
-- **Storage:** Chrome Storage API  
+- **Storage:** Chrome Storage API
 
 ---
+
+📝 Usage
+Click on the NoDistraction for YT extension icon in your Chrome toolbar.
+Toggle Focus Mode to hide non-educational content.
+Adjust settings for personalized filtering (if applicable).
+Enjoy a focused YouTube experience!
+
+---
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo, submit pull requests, or suggest new features.
+
 
 ## 📦 Installation  
 
