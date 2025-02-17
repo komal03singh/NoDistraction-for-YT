@@ -40,7 +40,61 @@ Contributions are welcome! Feel free to fork this repo, submit pull requests, or
 
 ## 📦 Installation  
 
-### Manual Installation  
-1. Clone this repository:  
+### Manual Installation Guide**  
+
+Manually install the **NoDistraction for YT** Chrome extension for development or testing purposes.  
+
+---
+
+## **🛠 Step 1: Clone the Repository**  
+First, download the extension files by cloning the GitHub repository.  
+
+### **Option 1: Using Git (Recommended)**
+1. Open a terminal (Command Prompt, Git Bash, or macOS/Linux Terminal).  
+2. Run the following command to clone the repository:  
    ```bash
-   git clone https://github.com/komal03singh/NoDistraction-YT.git
+   git clone https://github.com/yourusername/NoDistraction-YT.git
+   ```
+3. Navigate to the downloaded folder:  
+   ```bash
+   cd NoDistraction-YT
+   ```
+
+### **Option 2: Manual Download (Alternative)**
+1. Visit the **GitHub Repository** → [GitHub Link](https://github.com/yourusername/NoDistraction-YT).  
+2. Click **Code** → **Download ZIP**.  
+3. Extract the ZIP file to a location on your computer.
+
+---
+
+## **🛠 Step 2: Open Chrome Extensions Page**  
+1. Open **Google Chrome**.  
+2. In the address bar, type:  
+   ```
+   chrome://extensions/
+   ```
+   and press **Enter**.  
+3. Enable **Developer Mode** (top-right corner toggle switch).  
+
+---
+
+## **🛠 Step 3: Load the Extension into Chrome**  
+1. Click on the **"Load unpacked"** button.  
+2. Select the **NoDistraction-YT** folder (the one containing `manifest.json`).  
+3. Click **Open** or **Select Folder**.  
+
+✅ **Your extension is now installed and active!** 
+
+---
+
+## **🛠 Step 4: Verify the Installation**  
+1. You should see the extension appear in the Chrome Extensions list.  
+2. A new **NoDistraction for YT** icon should appear in the Chrome toolbar.  
+
+---
+
+## **🛠 Step 5: Test the Extension**  
+1. Open **YouTube** (`https://www.youtube.com`).  
+2. Click on the extension icon.  
+3. Toggle **Focus Mode** ON to block non-educational content.  
+4. Refresh YouTube to see the changes.  
